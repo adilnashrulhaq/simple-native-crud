@@ -1,5 +1,5 @@
 # simple-native-crud
-simple native CRUD with PHP and little bit bootstrap
+simple native CRUD with PHP, database and little bit bootstrap
 
 step to open
 1. download / clone
