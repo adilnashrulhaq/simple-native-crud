@@ -38,7 +38,7 @@
                         <td>'.$title.'</td>
                         <td>'.$author.'</td>
                         <td>'.$year.'</td>
-                        <td>'.$status.'</td>
+                        <td>' . ($status == 1 ? 'Sudah dibaca' : 'Belum dibaca') . '</td>
                         <td colspan="4">
                             <button class="btn btn-primary">
                                 <a href="update.php?updateid='.$id.'" class="text-light" style="text-decoration: none;">Edit</a>
